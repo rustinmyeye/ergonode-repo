@@ -1,0 +1,13 @@
+a6b746a8f2951de63dfda1b66835b385  data/data/io.ergonode/files/usr/include/gcrypt.h
+a07a0f574045a755afd8b1f26bab2c46  data/data/io.ergonode/files/usr/lib/libgcrypt.so
+35203bd7d0f90fe9e9c29952bde65965  data/data/io.ergonode/files/usr/lib/pkgconfig/libgcrypt.pc
+a55486be1419028187d61fb234e119c6  data/data/io.ergonode/files/usr/share/info/gcrypt.info-1
+678e933e628bd48cb5387e050866b0f4  data/data/io.ergonode/files/usr/share/info/gcrypt.info-2
+d252b0ea419c52d35e5c53a6d2b16252  data/data/io.ergonode/files/usr/share/info/gcrypt.info
+2dae15d91a37cfde72fe9eae75f8ea14  data/data/io.ergonode/files/usr/share/doc/libgcrypt/LICENSES
+a39c3b258946dd93b9bcc16b04651225  data/data/io.ergonode/files/usr/share/aclocal/libgcrypt.m4
+6e131f41408ccbdf80a478396d168852  data/data/io.ergonode/files/usr/share/man/man1/hmac256.1.gz
+aae260932f160da36e255cd36e3ff5b2  data/data/io.ergonode/files/usr/bin/mpicalc
+aacce345a660ff00bedd69eebb655c74  data/data/io.ergonode/files/usr/bin/hmac256
+587c1b0f72e4e58d082689bebcc007d0  data/data/io.ergonode/files/usr/bin/libgcrypt-config
+8d9308b78340be8e7e3c3c7eed5b430f  data/data/io.ergonode/files/usr/bin/dumpsexp

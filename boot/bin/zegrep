@@ -1,0 +1,2 @@
+#!/data/data/io.ergonode/files/usr/bin/sh
+exec zgrep -E "$@"

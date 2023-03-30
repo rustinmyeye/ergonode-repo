@@ -1,0 +1,17 @@
+/.
+/data/
+/data/data/
+/data/data/io.ergonode/
+/data/data/io.ergonode/files/
+/data/data/io.ergonode/files/usr/
+/data/data/io.ergonode/files/usr/share/
+/data/data/io.ergonode/files/usr/share/doc/
+/data/data/io.ergonode/files/usr/share/doc/dash/
+/data/data/io.ergonode/files/usr/share/doc/dash/LICENSE
+/data/data/io.ergonode/files/usr/share/man/
+/data/data/io.ergonode/files/usr/share/man/man1/
+/data/data/io.ergonode/files/usr/share/man/man1/dash.1.gz
+/data/data/io.ergonode/files/usr/share/man/man1/sh.1.gz
+/data/data/io.ergonode/files/usr/bin/
+/data/data/io.ergonode/files/usr/bin/sh
+/data/data/io.ergonode/files/usr/bin/dash

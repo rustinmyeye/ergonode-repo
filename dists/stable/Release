@@ -2,7 +2,7 @@ Codename: stable
 Date: Mon, 14 Jun 2021 15:54:21 UTC
 Architectures: aarch64 arm
 Components: main
-Description: neoterm-repository
+Description: ergonode-repository
 MD5Sum:
  20b19301fe9236a580f25091a6d9abe9 131604 main/binary-aarch64/Packages
  8f98a83cc3ba5f5aa6edbd1a8ddd949d 40555 main/binary-aarch64/Packages.gz

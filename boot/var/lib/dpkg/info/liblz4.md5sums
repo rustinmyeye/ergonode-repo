@@ -1,0 +1,6 @@
+76afde45cae83b3c5d306c305bd66167  data/data/io.ergonode/files/usr/include/lz4.h
+35c3be072c0229287a2d1624b689b7f1  data/data/io.ergonode/files/usr/include/lz4frame_static.h
+39c4b3909e7bc0971b0dd541ae4f36ea  data/data/io.ergonode/files/usr/include/lz4frame.h
+512cec02943e19319de298eca5f73704  data/data/io.ergonode/files/usr/include/lz4hc.h
+f5790e1062ffbe4763b43f8c47d44ec3  data/data/io.ergonode/files/usr/lib/liblz4.so.1.9.3
+d959f53110df8379e4233b0b33da51d4  data/data/io.ergonode/files/usr/lib/pkgconfig/liblz4.pc

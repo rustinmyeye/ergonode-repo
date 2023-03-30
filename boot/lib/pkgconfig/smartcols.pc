@@ -1,0 +1,10 @@
+prefix=/data/data/io.ergonode/files/usr
+exec_prefix=/data/data/io.ergonode/files/usr
+libdir=/data/data/io.ergonode/files/usr/lib
+includedir=/data/data/io.ergonode/files/usr/include
+
+Name: smartcols
+Description: table or tree library
+Version: 2.36.1
+Cflags: -I${includedir}/libsmartcols
+Libs: -L${libdir} -lsmartcols

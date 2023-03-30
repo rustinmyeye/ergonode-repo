@@ -1,0 +1,13 @@
+/.
+/data/
+/data/data/
+/data/data/io.ergonode/
+/data/data/io.ergonode/files/
+/data/data/io.ergonode/files/usr/
+/data/data/io.ergonode/files/usr/etc/
+/data/data/io.ergonode/files/usr/etc/tls/
+/data/data/io.ergonode/files/usr/etc/tls/cert.pem
+/data/data/io.ergonode/files/usr/share/
+/data/data/io.ergonode/files/usr/share/doc/
+/data/data/io.ergonode/files/usr/share/doc/ca-certificates/
+/data/data/io.ergonode/files/usr/share/doc/ca-certificates/LICENSE

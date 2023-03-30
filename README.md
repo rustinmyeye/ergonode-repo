@@ -1,7 +1,7 @@
-## NeoTerm apt repo
+## ergonode apt repo
 ### Repo link
 ```
-https://raw.githubusercontent.com/NeoTerm/NeoTerm-repo/main/ stable main
+https://raw.githubusercontent.com/rustinmyeye/ergonode-repo/main/ stable main
 ```
 
 ### Supported architectures
@@ -26,7 +26,7 @@ $ nano (aptr)/conf/distributions
 Codename: stable
 Architectures: aarch64 arm
 Components: main
-Description: neoterm-repository
+Description: ergonode-repository
 ```
 #### Command
 * Here you need to be in (aptr) folder to execute these
@@ -35,12 +35,12 @@ Description: neoterm-repository
 $ reprepro --ignore=forbiddenchar -V removefilter stable 'Section'
 
 # Add new packages
-$ reprepro --ignore=forbiddenchar -S main -P extra includedeb stable ../neoterm-packages/debs/*.deb
+$ reprepro --ignore=forbiddenchar -S main -P extra includedeb stable ../ergonode-packages/debs/*.deb
 ```
-#### Get all of current package(s) list (Mainly for neoterm-packages)
+#### Get all of current package(s) list (Mainly for ergonode-packages)
 * Get Packages file from apt repo
 ```
-$ wget https://github.com/NeoTerm/NeoTerm-repo/raw/main/dists/stable/main/binary-aarch64/Packages
+$ wget https://github.com/rustinmyeye/ergonode-repo/raw/main/dists/stable/main/binary-aarch64/Packages
 ```
 * Cat packages to file (List)
 ```

@@ -1,0 +1,7 @@
+01669da842e53bcb7d26390af7f8b0ef  data/data/io.ergonode/files/usr/include/xxh3.h
+3066518b768e229d4b44248362581f9c  data/data/io.ergonode/files/usr/include/xxhash.h
+52483f9483c7dd60b4c1a0ebe3e7e77d  data/data/io.ergonode/files/usr/lib/libxxhash.so.0.8.0
+eae852b5adc31e6a76c6556523041545  data/data/io.ergonode/files/usr/lib/pkgconfig/libxxhash.pc
+b335320506abb0505437e39295e799cb  data/data/io.ergonode/files/usr/share/doc/xxhash/LICENSE
+e60c2513adf5d91fe15c5662408af23f  data/data/io.ergonode/files/usr/share/man/man1/xxhsum.1.gz
+4bf8cc134d41ab7c8f6369709dc13838  data/data/io.ergonode/files/usr/bin/xxhsum

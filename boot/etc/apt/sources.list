@@ -1,0 +1,2 @@
+# The main termux repository:
+deb [trusted=yes] https://raw.githubusercontent.com/rustinmyeye/ergonode-repo/main/ stable main

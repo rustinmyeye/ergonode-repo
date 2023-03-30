@@ -1,0 +1,17 @@
+48959d59db1ebdab30ef23d58c98465e  data/data/io.ergonode/files/usr/include/libcharset.h
+818976f5ab8b223d94d2add2eb8bc807  data/data/io.ergonode/files/usr/include/localcharset.h
+9f911875c0e8b2bbee404630c65d590d  data/data/io.ergonode/files/usr/include/iconv.h
+f3f8aa2a2fa3ea06ab7c53da6c7266b1  data/data/io.ergonode/files/usr/lib/libiconv.so
+e8d92d5aff6161904738ec801479716f  data/data/io.ergonode/files/usr/lib/libcharset.so
+89218f9f335f8e14d0f068f8c2426bec  data/data/io.ergonode/files/usr/share/doc/iconv.3.html
+b8958601fbfa5e59794c0581131f6955  data/data/io.ergonode/files/usr/share/doc/iconvctl.3.html
+6ef0c0b2d609093c335519fd2610c44a  data/data/io.ergonode/files/usr/share/doc/iconv_open.3.html
+64cca2fb9a6d690339eb36c1da34feee  data/data/io.ergonode/files/usr/share/doc/iconv.1.html
+092007e566449e603eab90b92b93434a  data/data/io.ergonode/files/usr/share/doc/iconv_open_into.3.html
+fced01e21254e2089ef4b5d7df304ac4  data/data/io.ergonode/files/usr/share/doc/iconv_close.3.html
+3f829425578227ff77490e027e359f39  data/data/io.ergonode/files/usr/share/man/man1/iconv.1.gz
+3a54355068c35e13e1147ef8e415a5eb  data/data/io.ergonode/files/usr/share/man/man3/iconv_open_into.3.gz
+386561fe495144f59841f90975d12964  data/data/io.ergonode/files/usr/share/man/man3/iconvctl.3.gz
+0fd3926641dfd40edb1ad719afffa8a1  data/data/io.ergonode/files/usr/share/man/man3/iconv_open.3.gz
+bdcc7862a2de5cec1479cf15f6867862  data/data/io.ergonode/files/usr/share/man/man3/iconv_close.3.gz
+6f2ffa5ca4e8aea5248c2983e10c507c  data/data/io.ergonode/files/usr/share/man/man3/iconv.3.gz

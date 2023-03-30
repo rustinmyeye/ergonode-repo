@@ -1,0 +1,16 @@
+/.
+/data/
+/data/data/
+/data/data/io.ergonode/
+/data/data/io.ergonode/files/
+/data/data/io.ergonode/files/usr/
+/data/data/io.ergonode/files/usr/include/
+/data/data/io.ergonode/files/usr/include/bzlib.h
+/data/data/io.ergonode/files/usr/lib/
+/data/data/io.ergonode/files/usr/lib/libbz2.so
+/data/data/io.ergonode/files/usr/lib/libbz2.so.1.0
+/data/data/io.ergonode/files/usr/lib/libbz2.so.1.0.8
+/data/data/io.ergonode/files/usr/share/
+/data/data/io.ergonode/files/usr/share/doc/
+/data/data/io.ergonode/files/usr/share/doc/libbz2/
+/data/data/io.ergonode/files/usr/share/doc/libbz2/LICENSE
